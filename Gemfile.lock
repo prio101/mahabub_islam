@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    mahabub_ruby_on_rails_dev (0.1.0)
+    mahabub_ruby_on_rails_dev (0.2.0)
 
 GEM
   remote: https://rubygems.org/
