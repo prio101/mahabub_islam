@@ -17,8 +17,13 @@ Or install it yourself as:
     $ gem install mahabub_ruby_on_rails_dev
 
 ## Usage
+Write on irb:
+`require 'mahabub_ruby_on_rails_dev'`
 
-TODO: Write usage instructions here
+and then,
+
+`MahabubRubyOnRailsDev::Mahabub.cv`
+
 
 ## Development
 
